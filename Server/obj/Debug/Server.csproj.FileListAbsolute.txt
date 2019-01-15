@@ -1,0 +1,14 @@
+F:\Курсач ПСП\Decision\Server\bin\Debug\Server.exe.config
+F:\Курсач ПСП\Decision\Server\bin\Debug\Server.exe
+F:\Курсач ПСП\Decision\Server\bin\Debug\Server.pdb
+F:\Курсач ПСП\Decision\Server\bin\Debug\EntityFramework.dll
+F:\Курсач ПСП\Decision\Server\bin\Debug\EntityFramework.SqlServer.dll
+F:\Курсач ПСП\Decision\Server\bin\Debug\EntityFramework.xml
+F:\Курсач ПСП\Decision\Server\bin\Debug\EntityFramework.SqlServer.xml
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.Form1.resources
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.Properties.Resources.resources
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.exe
+F:\Курсач ПСП\Decision\Server\obj\Debug\Server.pdb

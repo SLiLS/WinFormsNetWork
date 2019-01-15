@@ -1,0 +1,10 @@
+F:\Курсач ПСП\Decision\Client\bin\Debug\Client.exe.config
+F:\Курсач ПСП\Decision\Client\bin\Debug\Client.exe
+F:\Курсач ПСП\Decision\Client\bin\Debug\Client.pdb
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.Form1.resources
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.exe
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.pdb
+F:\Курсач ПСП\Decision\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
